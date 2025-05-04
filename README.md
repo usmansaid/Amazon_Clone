@@ -1,4 +1,4 @@
 # Amazon_Clone
-https://usmansaid.github.io/Amazon_Clone/
-If not opening:
+https://usmansaid.github.io/Amazon_Clone/ <br>
+If not opening: <br>
 https://amazon123clone.netlify.app/
